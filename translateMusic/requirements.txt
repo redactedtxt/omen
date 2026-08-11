@@ -1,0 +1,6 @@
+beautifulsoup4>=4.12
+openai>=1.50
+python-dotenv>=1.0
+requests>=2.31
+rapidfuzz>=3.0
+yt-dlp>=2024.10.7
